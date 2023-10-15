@@ -1,0 +1,11 @@
+body{
+  background-color: black;
+}
+
+.buttons{
+  background-color:black;
+  border-style: solid;
+  border-color: aqua;
+  border-width: thin;
+  color:white
+}

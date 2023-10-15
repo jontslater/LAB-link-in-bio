@@ -1,0 +1,42 @@
+body{
+  background-color: black;
+}
+
+.buttons{
+  background-color:black;
+  border-style: solid;
+  border-color: rgb(210, 214, 214);
+  border-width: thin;
+  color:white;
+  width: 75%;
+  height: 40px;
+  border-radius: 10px;
+  margin: auto;
+
+}
+
+.Jon{
+  color:white;
+  text-align: center;
+  margin: auto;
+  font-style: normal sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-radius: 50px
+}
+
+.social{
+  background-color:white;
+  color:white;
+  border-radius: 10px;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  margin: auto;
+}
