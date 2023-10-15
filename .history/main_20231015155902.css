@@ -44,6 +44,6 @@ body{
   border-style: solid;
   height: 50px;
   width: 50px;
-  flex-wrap: wrap;
-  align-items:center;
+  justify-content: center;
+  display: block;
 }

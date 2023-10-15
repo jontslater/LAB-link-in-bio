@@ -1,20 +1,22 @@
 body{
   background-color: black;
-  background-image: url(https://wallpapers.com/images/hd/minimalist-one-piece-monkey-d-luffy-eokbgkzv18j8qdcx.webp);
 }
 
 .buttons{
   background-color:black;
   border-style: solid;
-  border-color: rgb(210, 214, 214);
+  border-color: aqua;
   border-width: thin;
   color:white;
-  width: 800px;
+  width: 100%;
   height: 40px;
-  border-radius: 15px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.container{
   margin:auto;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  width: 200;
 
 }
 
@@ -24,8 +26,6 @@ body{
   margin: auto;
   font-style: normal sans-serif;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 .photo{
@@ -33,17 +33,22 @@ body{
   margin-left: auto;
   margin-right: auto;
   border-style: solid;
-  border-radius: 50px;
-  margin-top: 50px;
+  border-radius: 50px
 }
 
 .social{
+  height: 90px;
+  width: 90px;
   background-color:white;
   color:white;
+  width:  50px;
+  height: 50px;
   border-radius: 10px;
   border-style: solid;
-  height: 50px;
-  width: 50px;
-  flex-wrap: wrap;
-  align-items:center;
+}
+
+.side {
+  display: inline;
+  justify-content: space-between;
+  align-items: center;
 }

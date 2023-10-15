@@ -13,8 +13,7 @@ body{
   height: 40px;
   border-radius: 15px;
   margin:auto;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  margin-bottom: 25px;
 
 }
 
@@ -25,7 +24,6 @@ body{
   font-style: normal sans-serif;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 .photo{
@@ -44,6 +42,4 @@ body{
   border-style: solid;
   height: 50px;
   width: 50px;
-  flex-wrap: wrap;
-  align-items:center;
 }

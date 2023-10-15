@@ -40,10 +40,9 @@ body{
 .social{
   background-color:white;
   color:white;
-  border-radius: 10px;
+  border-radius: 1px;
   border-style: solid;
   height: 50px;
   width: 50px;
-  flex-wrap: wrap;
-  align-items:center;
+  margin: auto;
 }
